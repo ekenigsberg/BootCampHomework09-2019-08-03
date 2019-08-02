@@ -84,16 +84,6 @@ img.left {
 .logo h1 {
 	font-weight:700;
 }
-.big_logo {
-}
-.big_logo.affix {
-        display:none;
-}
-.small_logo {
-        display:none;
-}
-.small_logo.affix {
-}
 
 /* header */
 .navbar .nav li.active a {
@@ -2304,7 +2294,7 @@ img.alignright{
 		margin-bottom:10px;
 	}
 	.cbp-af-header .logo {
-		display:block;
+		display:none;
 	}
 
 	.cbp-af-header nav {
@@ -2405,7 +2395,7 @@ img.alignright{
 		float: none;
 	}
 	.cbp-af-header .logo {
-		display:block;
+		display:none;
 	}
 
 	.cbp-af-header nav {
@@ -2448,7 +2438,7 @@ img.alignright{
 
 	.widget ul.tags li {
 		margin-bottom:10px;
-	}
+	}	
 	.subfooter {
 		padding-left: 20px;
 		padding-right: 20px;
@@ -2459,6 +2449,5 @@ img.alignright{
 	.subfooter p {
 		text-align:center;
 	}
-
 
 }
